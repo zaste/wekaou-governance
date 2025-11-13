@@ -1,73 +1,50 @@
 # TSC Meeting Notes
 
-> **Public Record of Technical Steering Committee Meetings**
+> **Public records of Technical Steering Committee meetings**
 
 ---
 
-## About
+## Meeting Schedule
 
-This directory contains notes from all TSC meetings. Meetings are held monthly and are open to community observation.
-
-**Format**: Each meeting has its own markdown file named `YYYY-MM.md`
-
----
-
-## Upcoming Meetings
-
-_No meetings scheduled yet (TSC not yet elected)_
-
----
-
-## Past Meetings
-
-_No past meetings yet_
+**Regular Meetings**: First Thursday of each month, 3:00 PM UTC
+**Duration**: 90 minutes
+**Format**: Video call (recorded and published)
 
 ---
 
 ## How to Participate
 
-1. **Observe**: Meetings are recorded and published on YouTube (link TBD)
-2. **Propose Agenda Items**: Open an issue in this repository labeled `tsc-agenda`
-3. **Join the TSC**: Get elected during annual elections (see `aca/statutes.md`)
+### Attend a Meeting
+- Meetings are open to all community members
+- Calendar link: [TODO: Add Google Calendar link]
+- Zoom/Meet link: [TODO: Add meeting link]
+
+### Propose Agenda Items
+1. Open an issue in this repository with label `tsc-agenda`
+2. TSC will review and add to upcoming meeting agenda
+3. Agenda published 3 days before meeting
 
 ---
 
-## Meeting Template
+## Meeting Archive
 
-For TSC members preparing notes, use this structure:
+Meeting notes are published here within 48 hours of each meeting.
 
-```markdown
-# TSC Meeting - [Month] [Year]
+### 2025
+- [2025-01.md](./2025-01.md) - January Meeting [PENDING]
+- [2025-02.md](./2025-02.md) - February Meeting [PENDING]
 
-**Date**: YYYY-MM-DD
-**Time**: HH:MM UTC
-**Attendees**: @username1, @username2, ...
-**Recording**: [Link to video]
-
----
-
-## Agenda
-
-1. Item 1
-2. Item 2
-...
+### 2024
+_No meetings held yet (TSC not yet formed)_
 
 ---
 
-## Discussions
+## Meeting Note Template
 
-### Item 1: [Title]
-
-**Context**: ...
-**Discussion**: ...
-**Decision**: ...
-**Action Items**: 
-- [ ] Task (@assignee)
-
----
-
-## Action Items Summary
-
-- [ ] Task 1 (@assignee) - due YYYY-MM-DD
-- [ ] Task 2 (@assignee) - due YYYY-MM-DD
-```
+Each meeting note includes:
+- Date, time, attendees
+- Agenda items
+- Discussion summary
+- Decisions made (with vote counts)
+- Action items
+- Next meeting date

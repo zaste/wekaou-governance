@@ -1,61 +1,70 @@
 # WEKAOU Working Groups
 
-> **Specialized teams tackling domain-specific challenges**
+> **Domain-specific collaboration within the ecosystem**
 
 ---
 
-## Active Working Groups
+## What are Working Groups?
+
+Working Groups (WGs) are focused teams chartered by the TSC to advance specific aspects of the WEKAOU ecosystem.
+
+**Key Characteristics**:
+- **Focused Scope**: Each WG has a clear, bounded mission
+- **TSC Oversight**: Chartered and supervised by the Technical Steering Committee
+- **Autonomous Operation**: Work independently within their charter
+- **Community-Driven**: Open participation for qualified members
+
+---
+
+## Current Working Groups
 
 ### WG-Domains
-**Charter**: Develop domain-specific profiles and validation rules
+**Status**: [PENDING CHARTER]
 **Lead**: [TBD]
-**Status**: Proposed (pending TSC charter approval)
-**Directory**: `wg-domains/`
+**Mission**: Develop domain-specific profiles and extensions for WEKAOU
+
+[See wg-domains/ for details]
 
 ---
 
-## Proposed Working Groups
+## Proposing a New Working Group
 
-_Submit RFC with label `working-group-proposal` to suggest new groups_
+1. **Identify the Need**: Is there a clear gap or opportunity?
+2. **Draft a Charter**: Use the template in `CHARTER_TEMPLATE.md`
+3. **Submit RFC**: Open issue in `wekaou-rfc` with label `working-group-proposal`
+4. **Community Discussion**: Minimum 14 days for feedback
+5. **TSC Approval**: TSC votes on charter (2/3 majority required)
+6. **Launch**: Create WG directory, recruit members, begin work
 
 ---
 
 ## Working Group Lifecycle
 
-### 1. Proposal
-- Submit RFC describing scope, objectives, deliverables
-- Community discussion period (2-4 weeks)
+```
+Proposed → Chartered → Active → Dormant/Completed → Archived
+```
 
-### 2. Charter Approval
-- TSC reviews and votes (2/3 majority required)
-- Lead assigned
-- Initial members recruited
-
-### 3. Operation
-- Autonomous work within charter boundaries
-- Regular public meetings (at least quarterly)
-- Progress reports to TSC
-
-### 4. Deliverables
-- PRs to relevant repositories
-- Documentation updates
-- Technical reports
-
-### 5. Sunset
-- When objectives complete: archive with final report
-- If inactive: TSC may vote to dissolve
+- **Proposed**: RFC submitted, under discussion
+- **Chartered**: TSC approved, members recruited
+- **Active**: Regular meetings, producing deliverables
+- **Dormant**: Inactive but may resume
+- **Completed**: Mission accomplished, WG dissolved
+- **Archived**: Historical record maintained
 
 ---
 
-## How to Join a Working Group
+## Participation
 
-1. Review active WGs above
-2. Attend a WG meeting (open to all)
-3. Contribute to WG discussions and work
-4. For formal membership: request in WG's directory README
+To join a Working Group:
+1. Review the WG's charter in its subdirectory
+2. Open an issue: "WG Membership: [Your Name] for [WG Name]"
+3. Include relevant expertise/interest
+4. WG lead approves based on charter criteria
 
 ---
 
-## Starting a New Working Group
+## Resources
 
-See [RFC Process](https://github.com/zaste/wekaou-rfc) for proposal guidelines.
+- [Charter Template](./CHARTER_TEMPLATE.md)
+- [Meeting Note Template](./MEETING_TEMPLATE.md)
+- [Governance Guidelines](../CHARTER.md)

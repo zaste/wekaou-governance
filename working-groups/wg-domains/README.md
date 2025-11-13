@@ -1,82 +1,60 @@
-# WG-Domains: Domain-Specific Profiles
+# Working Group: Domains
 
-> **Charter Status**: PROPOSED (Pending TSC Approval)
+> **Domain-Specific Profiles for WEKAOU**
+
+**Status**: PROPOSED  
+**Lead**: [TBD]  
+**Formed**: [PENDING]  
 
 ---
 
 ## Mission
 
-Develop, validate, and maintain domain-specific profiles of the WEKAOU specification for vertical industries and use cases.
-
----
-
-## Objectives
-
-1. **Identify Common Patterns**: Across industries (healthcare, finance, education, etc.)
-2. **Create Profiles**: Specialized subsets/extensions of WEKAOU for each domain
-3. **Validation Rules**: Domain-specific constraints beyond core specification
-4. **Documentation**: Best practices, case studies, implementation guides
+Develop and maintain domain-specific profiles that extend the core WEKAOU specification for particular industries, use cases, or organizational contexts.
 
 ---
 
 ## Scope
 
 ### In Scope
-- Healthcare: Patient data governance, HIPAA alignment
-- Financial Services: Regulatory compliance (SOX, Basel III)
-- Education: Learning analytics governance
-- Smart Cities: IoT data governance
-- Supply Chain: Traceability and provenance
+- Domain-specific artifact taxonomies
+- Industry-specific vocabulary mappings
+- Best practices for applying WEKAOU in specific contexts
+- Reference implementations for key domains
 
 ### Out of Scope
 - Changes to core WEKAOU specification (use RFC process)
-- Implementation code (goes in compliance-suite or separate repos)
-- Marketing or business development
+- Proprietary or vendor-specific extensions
+- Non-technical domain considerations (legal, regulatory, etc.)
 
 ---
 
 ## Deliverables
 
-- [ ] Domain profile specification documents (Markdown)
-- [ ] Validation rule extensions for compliance-suite
-- [ ] Case study repository
-- [ ] Quarterly domain readiness report
+1. **Domain Profile Template**: Standardized format for defining profiles
+2. **Initial Profiles**: At least 3 reference profiles:
+   - Healthcare/Medical
+   - Financial Services
+   - Software Development
+3. **Validation Guidelines**: How to test profile conformance
+4. **Documentation**: User guides for each profile
 
 ---
 
-## Membership
+## Members
 
-**Lead**: [TBD - Pending TSC appointment]
-
-**Core Members**:
-- [Open positions]
-
-**Contributors**:
-- Anyone can contribute via PRs and discussions
-
-**To Join**: Comment on [this issue](TBD) with:
-- Domain expertise
-- Interest area
-- Expected time commitment
+_[PENDING: WG not yet chartered]_
 
 ---
 
 ## Meetings
 
-**Schedule**: TBD (likely bi-weekly)
-**Format**: Video call (public, recorded)
-**Agenda**: Published 48h in advance in `meetings/` directory
+**Schedule**: [TBD after formation]  
+**Notes**: [Future meetings will be documented here]
 
 ---
 
-## Communication
+## Resources
 
-- **Discussions**: [wekaou-community](https://github.com/zaste/wekaou-community) with `wg-domains` tag
-- **Updates**: Quarterly report to TSC
-- **Documents**: This directory
-
----
-
-## Charter Approval
-
-This working group is pending formal charter approval by the TSC. To support or provide feedback, comment on the charter RFC: [Link TBD]
+- [Charter](./charter.md) [TODO]
+- [Discussion Forum](https://github.com/zaste/wekaou-community/discussions?discussions_q=label%3Awg-domains)
