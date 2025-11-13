@@ -1,50 +1,53 @@
 # TSC Meeting Notes
 
-> **Public records of Technical Steering Committee meetings**
+> **Archive of Technical Steering Committee meetings**
 
 ---
 
 ## Meeting Schedule
 
-**Regular Meetings**: First Thursday of each month, 3:00 PM UTC
-**Duration**: 90 minutes
-**Format**: Video call (recorded and published)
+**Regular Meetings**: First Thursday of each month at 15:00 UTC
+
+**Format**: 
+- 90-minute video call
+- Recorded and published on YouTube
+- Minutes posted here within 48 hours
 
 ---
 
-## How to Participate
+## Upcoming Meetings
 
-### Attend a Meeting
-- Meetings are open to all community members
-- Calendar link: [TODO: Add Google Calendar link]
-- Zoom/Meet link: [TODO: Add meeting link]
+### Next Meeting: [DATE TBD]
 
-### Propose Agenda Items
-1. Open an issue in this repository with label `tsc-agenda`
-2. TSC will review and add to upcoming meeting agenda
-3. Agenda published 3 days before meeting
+**Agenda**: [To be announced 3 days prior]
+
+**Join**: [Link will be posted in wekaou-community]
 
 ---
 
-## Meeting Archive
+## Past Meetings
 
-Meeting notes are published here within 48 hours of each meeting.
-
-### 2025
-- [2025-01.md](./2025-01.md) - January Meeting [PENDING]
-- [2025-02.md](./2025-02.md) - February Meeting [PENDING]
-
-### 2024
-_No meetings held yet (TSC not yet formed)_
+_No meetings held yet - pending TSC formation._
 
 ---
 
-## Meeting Note Template
+## How to Propose Agenda Items
 
-Each meeting note includes:
-- Date, time, attendees
-- Agenda items
-- Discussion summary
-- Decisions made (with vote counts)
-- Action items
-- Next meeting date
+1. Open an issue in [wekaou-community](https://github.com/zaste/wekaou-community)
+2. Tag with `tsc-agenda`
+3. Submit at least 5 days before meeting
+4. TSC will review and add to agenda if relevant
+
+---
+
+## Meeting Notes Format
+
+Each meeting note should include:
+- **Date and Time**
+- **Attendees** (TSC members + guests)
+- **Agenda Items** with discussion summary
+- **Decisions Made** (with vote tallies)
+- **Action Items** (assigned to specific people)
+- **Recording Link**
+
+See template: `YYYY-MM-DD-template.md`

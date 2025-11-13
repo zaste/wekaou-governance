@@ -1,70 +1,44 @@
 # WEKAOU Working Groups
 
-> **Domain-specific collaboration within the ecosystem**
+> **Domain-specific expertise and deliverables**
 
 ---
 
-## What are Working Groups?
-
-Working Groups (WGs) are focused teams chartered by the TSC to advance specific aspects of the WEKAOU ecosystem.
-
-**Key Characteristics**:
-- **Focused Scope**: Each WG has a clear, bounded mission
-- **TSC Oversight**: Chartered and supervised by the Technical Steering Committee
-- **Autonomous Operation**: Work independently within their charter
-- **Community-Driven**: Open participation for qualified members
-
----
-
-## Current Working Groups
+## Active Working Groups
 
 ### WG-Domains
-**Status**: [PENDING CHARTER]
+**Charter**: [wg-domains/charter.md](wg-domains/charter.md)
 **Lead**: [TBD]
-**Mission**: Develop domain-specific profiles and extensions for WEKAOU
-
-[See wg-domains/ for details]
+**Focus**: Domain-specific profiles and artifacts for WEKAOU
 
 ---
 
-## Proposing a New Working Group
+## Proposed Working Groups
 
-1. **Identify the Need**: Is there a clear gap or opportunity?
-2. **Draft a Charter**: Use the template in `CHARTER_TEMPLATE.md`
-3. **Submit RFC**: Open issue in `wekaou-rfc` with label `working-group-proposal`
-4. **Community Discussion**: Minimum 14 days for feedback
-5. **TSC Approval**: TSC votes on charter (2/3 majority required)
-6. **Launch**: Create WG directory, recruit members, begin work
+_None at this time. Propose new WGs via RFC in wekaou-rfc._
 
 ---
 
-## Working Group Lifecycle
+## How to Form a Working Group
 
-```
-Proposed → Chartered → Active → Dormant/Completed → Archived
-```
-
-- **Proposed**: RFC submitted, under discussion
-- **Chartered**: TSC approved, members recruited
-- **Active**: Regular meetings, producing deliverables
-- **Dormant**: Inactive but may resume
-- **Completed**: Mission accomplished, WG dissolved
-- **Archived**: Historical record maintained
+1. **Identify Need**: Clear gap or domain requiring focused attention
+2. **Draft Charter**: Use template in this directory
+3. **Submit RFC**: Open proposal in wekaou-rfc with label `working-group-proposal`
+4. **Community Input**: Minimum 14-day discussion period
+5. **TSC Approval**: Simple majority vote required
+6. **Establish WG**: Create directory here, recruit members, begin work
 
 ---
 
-## Participation
+## WG Governance
 
-To join a Working Group:
-1. Review the WG's charter in its subdirectory
-2. Open an issue: "WG Membership: [Your Name] for [WG Name]"
-3. Include relevant expertise/interest
-4. WG lead approves based on charter criteria
+- **Autonomy**: WGs operate independently within their charter
+- **Reporting**: Quarterly updates to TSC
+- **Deliverables**: Recommendations, documentation, tooling
+- **Sunset**: WGs dissolve when goals achieved or interest wanes
 
 ---
 
-## Resources
+## Charter Template
 
-- [Charter Template](./CHARTER_TEMPLATE.md)
-- [Meeting Note Template](./MEETING_TEMPLATE.md)
-- [Governance Guidelines](../CHARTER.md)
+See `charter-template.md` for the standard format.
